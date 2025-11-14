@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Get this live URL from your Team Lead (once he deploys)
 // For testing tonight, use his local IP: http://[TeamLead's_IP_Address]:3001
-const API_URL = "https://checkam-backend.vercel.app/"; // <-- Use this for now
+const API_URL = "https://checkam-backend.vercel.app"; // <-- Use this for now
 
 /**
  * Verifies a code against the backend
